@@ -3,6 +3,7 @@ var $calc = document.getElementById('calc');
 
 function updateSubtot($product) {
   // Iteration 1.1
+  
 }
 
 function calcAll() {
